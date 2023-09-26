@@ -1,6 +1,6 @@
 package homework01;
 import static org.assertj.core.api.Assertions.*;
-import ru.antonio.homework01.Calculator;
+import homework01.Calculator;
 
 public class CalculatorTest {
     public static void main(String[] args) {
