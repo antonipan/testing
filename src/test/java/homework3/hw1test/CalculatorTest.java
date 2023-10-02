@@ -1,6 +1,7 @@
-package homework01;
+package homework3.hw1test;
 import static org.assertj.core.api.Assertions.*;
 import homework01.Calculator;
+import org.mockito.exceptions.misusing.NullInsteadOfMockException;
 
 public class CalculatorTest {
     public static void main(String[] args) {
@@ -29,8 +30,7 @@ public class CalculatorTest {
      * @param sale - проверяемый размер скидки
      */
     public void testCalculatorSaleExeption(double sale) {
-        assertThatThrownBy(() -> Calculator.calculateDiscount(500, sale))
-                .isInstanceOf(ArithmeticException.class);
+        assertThatThrownBy(() -> Calculator.calculateDiscount(500, sale)).isInstanceOf(NullInsteadOfMockException.class);
     }
 
     /**

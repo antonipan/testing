@@ -75,4 +75,6 @@ public class VehicleTest {
         motorcycle.park();
         assertEquals(0, motorcycle.getSpeed());
     }
+
+
 }
