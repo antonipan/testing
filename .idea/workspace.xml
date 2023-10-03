@@ -5,47 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a8e03620-9456-42cf-a51e-767f950cc297" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/homework3/HomeService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/homework3/users/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/homework3/users/UserRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson3/FirstLastSix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson3/FissBuss.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson3/MoodAnalyser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson3/SomeService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson4/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson4/book/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson4/book/BookRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson4/book/BookService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson4/book/InMemoryBookRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson4/card/CreditCard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson4/card/PaymentForm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson4/database/DataProcessor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson4/database/Database.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson4/hotel/BookingService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson4/hotel/HotelService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson4/message/MessageService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson4/message/NotificationService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson4/weather/WeatherReporter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson4/weather/WeatherService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/homework3/HomeServiceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lesson3/FirstLastSixTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lesson3/FizzbussTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lesson3/SomeServiceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lesson3/UserTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lesson4/MainTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lesson4/book/BookServiceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lesson4/card/PaymentFormTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lesson4/card/database/DataProcessor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lesson4/card/database/Database.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lesson4/database/DataProcessorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lesson4/hotel/BookingServiceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lesson4/message/NotificationServiceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lesson4/weather/WeatherReporterTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/homework4/book/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/homework4/book/BookRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/homework4/book/BookService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/homework4/book/InMemoryBookRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/homework4/TestBookRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/homework4/task1.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/hw1test/CalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/homework3/hw1test/CalculatorTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/hw2test/VehicleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/hw2test/VehicleTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,48 +68,7 @@
       <recent name="lesson3" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.HomeServiceTest.testLogout">
-    <configuration name="CalculatorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hw1test.CalculatorTest" />
-      <module name="Testing" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="hw1test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="UserRepository" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework3.users.UserRepository" />
-      <module name="Testing" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="homework3.users.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FirstLastSixTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Testing" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lesson3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="lesson3" />
-      <option name="MAIN_CLASS_NAME" value="lesson3.FirstLastSixTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.TestBookRepository.testBookService">
     <configuration name="HomeServiceTest.numberNotEvenTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Testing" />
       <extension name="coverage">
@@ -176,20 +101,67 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PaymentFormTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Testing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lesson4.card.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="lesson4.card" />
+      <option name="MAIN_CLASS_NAME" value="lesson4.card.PaymentFormTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PaymentFormTest.testCharge" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Testing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lesson4.card.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="lesson4.card" />
+      <option name="MAIN_CLASS_NAME" value="lesson4.card.PaymentFormTest" />
+      <option name="METHOD_NAME" value="testCharge" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestBookRepository.testBookService" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Testing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="homework4" />
+      <option name="MAIN_CLASS_NAME" value="homework4.TestBookRepository" />
+      <option name="METHOD_NAME" value="testBookService" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.CalculatorTest" />
-      <item itemvalue="Application.UserRepository" />
-      <item itemvalue="JUnit.FirstLastSixTest" />
+      <item itemvalue="JUnit.PaymentFormTest" />
+      <item itemvalue="JUnit.PaymentFormTest.testCharge" />
+      <item itemvalue="JUnit.TestBookRepository.testBookService" />
       <item itemvalue="JUnit.HomeServiceTest.numberNotEvenTest" />
       <item itemvalue="JUnit.HomeServiceTest.testLogout" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.TestBookRepository.testBookService" />
+        <item itemvalue="JUnit.PaymentFormTest" />
+        <item itemvalue="JUnit.PaymentFormTest.testCharge" />
         <item itemvalue="JUnit.HomeServiceTest.testLogout" />
         <item itemvalue="JUnit.HomeServiceTest.numberNotEvenTest" />
-        <item itemvalue="Application.CalculatorTest" />
-        <item itemvalue="JUnit.FirstLastSixTest" />
-        <item itemvalue="Application.UserRepository" />
       </list>
     </recent_temporary>
   </component>
